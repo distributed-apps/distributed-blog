@@ -4106,10 +4106,10 @@
 /* Banner */
 
 	#banner {
-		background-image: -moz-linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
-		background-image: linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
+		background-image: -webkit-linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
+		background-image: linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-size: cover;
@@ -4248,10 +4248,10 @@
 /* Footer */
 
 	#footer {
-		background-image: -moz-linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
-		background-image: linear-gradient(to top, rgba(43, 90, 150, 0.9), rgba(43, 90, 150, 0.9)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
+		background-image: -webkit-linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
+		background-image: linear-gradient(to top, rgba(43, 90, 150, 0.2), rgba(43, 90, 150, 0.2)), url("../../images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-size: cover;
